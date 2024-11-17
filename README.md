@@ -32,10 +32,13 @@ git clone https://github.com/carloscantero11/compilador_BCJ#.git
 
 ## 🖼️ Imagenes
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/870cb140-7265-4217-b764-3b793ba3f3e4" /> 
+</div>
 
 ## 👉 Documentación
 
-Todo acerca sobre la documentación del proyecto esta en un PDF, este se encuentra ubicado en la carpera **README**. Este documento incluye una guía de usuario completa, la especificación del lenguaje BCJ, y detalles sobre la implementación del compilador.
+Todo acerca sobre la documentación del proyecto esta en un PDF, este se encuentra ubicado en la carpera [**README**](https://github.com/user-attachments/files/17792545/Manual.de.Usuario.pdf). Este documento incluye una guía de usuario completa, la especificación del lenguaje BCJ, y detalles sobre la implementación del compilador.
 
 <br/>
 
